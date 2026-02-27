@@ -2,14 +2,14 @@
 
 The following analysis tasks were performed on the 2022 Vrinda Store sales dataset:
 
-Compare Sales and Orders using a single chart.
+1. Compare Sales and Orders using a single chart.
 
-Identify the month with the highest Sales and Orders.
+2. Identify the month with the highest Sales and Orders.
 
-Determine whether Men or Women purchased more in 2022.
+3. Determine whether Men or Women purchased more in 2022.
 
-List the Top 10 States contributing to overall Sales.
+4. List the Top 10 States contributing to overall Sales.
 
-Identify the sales channel contributing the maximum revenue.
+5. Identify the sales channel contributing the maximum revenue.
 
-Determine the highest selling product category.
+6. Determine the highest selling product category.
